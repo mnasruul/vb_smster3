@@ -1,0 +1,37 @@
+D:\KULIAH\SEMESTER 3\VB\PERTEMUAN\project1_Muhammad Nasrul\project1_Muhammad Nasrul\bin\Debug\project1_Muhammad Nasrul.exe.config
+D:\KULIAH\SEMESTER 3\VB\PERTEMUAN\project1_Muhammad Nasrul\project1_Muhammad Nasrul\obj\Debug\project1_Muhammad Nasrul.vbprojResolveAssemblyReference.cache
+D:\KULIAH\SEMESTER 3\VB\PERTEMUAN\project1_Muhammad Nasrul\project1_Muhammad Nasrul\obj\Debug\project1_Muhammad_Nasrul.Form1.resources
+D:\KULIAH\SEMESTER 3\VB\PERTEMUAN\project1_Muhammad Nasrul\project1_Muhammad Nasrul\obj\Debug\project1_Muhammad_Nasrul.FormDataBarang.resources
+D:\KULIAH\SEMESTER 3\VB\PERTEMUAN\project1_Muhammad Nasrul\project1_Muhammad Nasrul\obj\Debug\project1_Muhammad_Nasrul.FormLogin.resources
+D:\KULIAH\SEMESTER 3\VB\PERTEMUAN\project1_Muhammad Nasrul\project1_Muhammad Nasrul\obj\Debug\project1_Muhammad_Nasrul.FormPenjualan.resources
+D:\KULIAH\SEMESTER 3\VB\PERTEMUAN\project1_Muhammad Nasrul\project1_Muhammad Nasrul\obj\Debug\project1_Muhammad_Nasrul.FormUser.resources
+D:\KULIAH\SEMESTER 3\VB\PERTEMUAN\project1_Muhammad Nasrul\project1_Muhammad Nasrul\obj\Debug\project1_Muhammad_Nasrul.Resources.resources
+D:\KULIAH\SEMESTER 3\VB\PERTEMUAN\project1_Muhammad Nasrul\project1_Muhammad Nasrul\obj\Debug\project1_Muhammad Nasrul.vbproj.GenerateResource.Cache
+D:\KULIAH\SEMESTER 3\VB\PERTEMUAN\project1_Muhammad Nasrul\project1_Muhammad Nasrul\obj\Debug\project1_Muhammad Nasrul.xml
+D:\KULIAH\SEMESTER 3\VB\PERTEMUAN\project1_Muhammad Nasrul\project1_Muhammad Nasrul\bin\Debug\project1_Muhammad Nasrul.exe
+D:\KULIAH\SEMESTER 3\VB\PERTEMUAN\project1_Muhammad Nasrul\project1_Muhammad Nasrul\bin\Debug\project1_Muhammad Nasrul.pdb
+D:\KULIAH\SEMESTER 3\VB\PERTEMUAN\project1_Muhammad Nasrul\project1_Muhammad Nasrul\bin\Debug\project1_Muhammad Nasrul.xml
+D:\KULIAH\SEMESTER 3\VB\PERTEMUAN\project1_Muhammad Nasrul\project1_Muhammad Nasrul\obj\Debug\project1_Muhammad Nasrul.exe
+D:\KULIAH\SEMESTER 3\VB\PERTEMUAN\project1_Muhammad Nasrul\project1_Muhammad Nasrul\obj\Debug\project1_Muhammad Nasrul.pdb
+D:\KULIAH\SEMESTER 3\VB\PERTEMUAN\project1_Muhammad Nasrul\project1_Muhammad Nasrul\obj\Debug\project1_Muhammad_Nasrul.FormMenuUtama.resources
+D:\KULIAH\SEMESTER 3\VB\PERTEMUAN\project1_Muhammad Nasrul\project1_Muhammad Nasrul\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\KULIAH\SEMESTER 3\VB\PERTEMUAN\project1_Muhammad Nasrul\project1_Muhammad Nasrul\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\KULIAH\SEMESTER 3\VB\PERTEMUAN\project1_Muhammad Nasrul\project1_Muhammad Nasrul\bin\Debug\CrystalDecisions.Shared.dll
+D:\KULIAH\SEMESTER 3\VB\PERTEMUAN\project1_Muhammad Nasrul\project1_Muhammad Nasrul\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\KULIAH\SEMESTER 3\VB\PERTEMUAN\project1_Muhammad Nasrul\project1_Muhammad Nasrul\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\KULIAH\SEMESTER 3\VB\PERTEMUAN\project1_Muhammad Nasrul\project1_Muhammad Nasrul\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\KULIAH\SEMESTER 3\VB\PERTEMUAN\project1_Muhammad Nasrul\project1_Muhammad Nasrul\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\KULIAH\SEMESTER 3\VB\PERTEMUAN\project1_Muhammad Nasrul\project1_Muhammad Nasrul\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\KULIAH\SEMESTER 3\VB\PERTEMUAN\project1_Muhammad Nasrul\project1_Muhammad Nasrul\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\KULIAH\SEMESTER 3\VB\PERTEMUAN\project1_Muhammad Nasrul\project1_Muhammad Nasrul\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\KULIAH\SEMESTER 3\VB\PERTEMUAN\project1_Muhammad Nasrul\project1_Muhammad Nasrul\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\KULIAH\SEMESTER 3\VB\PERTEMUAN\project1_Muhammad Nasrul\project1_Muhammad Nasrul\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\KULIAH\SEMESTER 3\VB\PERTEMUAN\project1_Muhammad Nasrul\project1_Muhammad Nasrul\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\KULIAH\SEMESTER 3\VB\PERTEMUAN\project1_Muhammad Nasrul\project1_Muhammad Nasrul\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\KULIAH\SEMESTER 3\VB\PERTEMUAN\project1_Muhammad Nasrul\project1_Muhammad Nasrul\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\KULIAH\SEMESTER 3\VB\PERTEMUAN\project1_Muhammad Nasrul\project1_Muhammad Nasrul\bin\Debug\stdole.dll
+D:\KULIAH\SEMESTER 3\VB\PERTEMUAN\project1_Muhammad Nasrul\project1_Muhammad Nasrul\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\KULIAH\SEMESTER 3\VB\PERTEMUAN\project1_Muhammad Nasrul\project1_Muhammad Nasrul\bin\Debug\FlashControlV71.dll
+D:\KULIAH\SEMESTER 3\VB\PERTEMUAN\project1_Muhammad Nasrul\project1_Muhammad Nasrul\bin\Debug\ShockwaveFlashObjects.dll
+D:\KULIAH\SEMESTER 3\VB\PERTEMUAN\project1_Muhammad Nasrul\project1_Muhammad Nasrul\obj\Debug\project1_Muhammad_Nasrul.laporan.resources
+D:\KULIAH\SEMESTER 3\VB\PERTEMUAN\project1_Muhammad Nasrul\project1_Muhammad Nasrul\obj\Debug\project1_Muhammad_Nasrul.FormDataPenjualan.resources
